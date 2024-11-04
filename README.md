@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Prakyath
 **Software Engineer | ADAS | Autonomous Driving**
 
-![Header Banner](your-banner-image-url)
+![Header Banner](image.jpg)
 
 I’m passionate about autonomous vehicles, deep learning, and building intelligent software solutions. Currently working as Software Developer.
 
