@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello! 👋 I'm Prakyath
+**Software Engineer | ADAS | Autonomous Driving**
 
-<!--
-**prakyaths/prakyaths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Banner](your-banner-image-url)
 
-Here are some ideas to get you started:
+I’m passionate about autonomous vehicles, deep learning, and building intelligent software solutions. Currently working as Software Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Skills
+- **Programming**: C++, Python
+- **Tools**: TensorFlow, Git, ROS, Weights & Biases
+- **Processes**: Agile, ASPICE, ISO26262
+
+---
+
+### 🔥 Projects
+- [**Malaria Detection with CNN**](https://github.com/prakyaths/MalarAI-Detection): CNN model for detecting malaria-infected cells, trained on the Malaria dataset.
+- [**Human Emotion Detection with CNN**](https://github.com/prakyaths/HumanEmotionAI): Facial emotion classifier using TensorFlow, achieving high prediction accuracy.
+- [**Car Price Prediction**](https://github.com/prakyaths/CarPricePrediction): Regression model for predicting car prices based on key features.
+
+---
+
+### 📈 My Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prakyaths&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakyaths&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/prakyathshetty)
