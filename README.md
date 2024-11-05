@@ -35,6 +35,8 @@
 
 - :zap: I like solving problems and reading tech articles.
 
+- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakyathshetty/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
