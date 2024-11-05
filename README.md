@@ -18,7 +18,7 @@
 </h1>
 
 <div align="center">
-  <img src="image.jpg" width="800" height="300"/>
+  <img src="image.jpg" width="600" height="300"/>
 </div>
 
 ---
