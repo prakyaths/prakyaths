@@ -61,5 +61,15 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prakyaths)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakyaths&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=prakyaths" alt="GitHub Streak"/>
+  </a>
+  <br><br> <!-- Adds space between the two stats sections -->
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakyaths&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  </a>
+</div>
+
