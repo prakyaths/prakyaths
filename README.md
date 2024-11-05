@@ -1,20 +1,16 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWk3OWJ2NHNqdXFhd2t2bGNscnVxd2J5OGtlM3FlZHJqcGN1dTh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
-</div>
-
+<!--
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/prakyathshetty/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!--
   <a href="https://www.geeksforgeeks.org/user/prakyathsgely/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
   </a>
   <a href="https://leetcode.com/u/Prakyath_S/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  -->
 </div>
+-->
 
 <h1 align="center">
   Hey there
