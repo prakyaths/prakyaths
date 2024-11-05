@@ -1,31 +1,65 @@
-# Hello! 👋 I'm Prakyath
-**Software Engineer | ADAS | Autonomous Driving**
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWk3OWJ2NHNqdXFhd2t2bGNscnVxd2J5OGtlM3FlZHJqcGN1dTh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+</div>
 
-![Header Banner](image.jpg)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/prakyathshetty/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/prakyathsgely/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Prakyath_S/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</div>
 
-I’m passionate about autonomous vehicles, deep learning, and building intelligent software solutions. Currently working as Software Developer.
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="image.jpg" width="600" height="300"/>
+</div>
 
 ---
 
-### 🛠️ My Skills
-- **Programming**: C++, Python
-- **Tools**: TensorFlow, Git, ROS, Weights & Biases
-- **Processes**: Agile, ASPICE, ISO26262
+### :man_technologist: About Me :
+
+- :telescope: I’m a Software Developer specializing in ADAS and Autonomous Driving
+
+- :seedling: Exploring Artificial Intelligence and Deep Learning
+
+- :zap: I like solve problems and read tech articles.
 
 ---
 
-### 🔥 Projects
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/icons/ros/ros-original.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg"  title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### 📈 Projects
 - [**Malaria Detection with CNN**](https://github.com/prakyaths/MalarAI-Detection): CNN model for detecting malaria-infected cells, trained on the Malaria dataset.
-- [**Human Emotion Detection with CNN**](https://github.com/prakyaths/HumanEmotionAI): Facial emotion classifier using TensorFlow, achieving high prediction accuracy.
+- [**Human Emotion Detection with CNN**](https://github.com/prakyaths/HumanEmotionAI): Human emotion detection using TensorFlow, achieving high prediction accuracy.
 - [**Car Price Prediction**](https://github.com/prakyaths/CarPricePrediction): Regression model for predicting car prices based on key features.
 
 ---
 
-### 📈 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prakyaths&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakyaths&layout=compact&theme=radical)
+### :fire: My Stats :
 
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/prakyathshetty)
+https://github-readme-streak-stats.herokuapp.com/?user=prakyaths
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prakyaths)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakyaths&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
