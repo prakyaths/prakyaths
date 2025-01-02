@@ -1,4 +1,3 @@
-<!--
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/prakyathshetty/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +9,6 @@
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
--->
 
 <h1 align="center">
   Hey there
